@@ -1,0 +1,3 @@
+pageObjects/AddUserPage.class
+envReader/EnvReader.class
+pageObjects/BasePage.class
